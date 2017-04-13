@@ -1,6 +1,6 @@
 
 
-# LEX and YACC (REFRENCE)
+# LEX and YACC 
 
 + __How To Compile Code__ 
 +  __ABOUT LEX__
