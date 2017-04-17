@@ -19,7 +19,7 @@
 	gcc gcc lex.yy.c y.tab.c -o lex_yacc
 	./lex_yacc
 	```
-
++ The *'-d'* is used to generate **y.tab.h** file.
 ## LEX - ( A Lexical Analyzer Generator )
 + Lex is a program generator designed for lexical processing of character input streams. It accepts a high-level, problem oriented specification for character string matching, and produces a program in a general purpose language which recognizes [regular expressions](https://en.wikipedia.org/wiki/Regular_expression). The regular expressions are specified by the user in the source specifications given to Lex. The Lex written code recognizes these expressions in an input stream and partitions the input stream into strings matching the expressions. At the boundaries between strings program sections provided by the user are executed. The Lex source file associates the regular expressions and the program fragments. As each expression appears in the input to the program written by Lex, the corresponding fragment is executed.
 + Although Lex is often used as a _front-end to a parser_, it has been designed such that it can be used stand-alone. Used in this fashion, Lex makes for a simple but very powerful text processing tool.
