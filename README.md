@@ -10,7 +10,7 @@
 + If you don't have lex or yacc compiler first install it using following command :- 
 	```
 	sudo apt-get install flex
-	sudo apt-get install byaac
+	sudo apt-get install bison
 	```
 + Then first compile the yacc file and then lex file by using command :- 
 	```
