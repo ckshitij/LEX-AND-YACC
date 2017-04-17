@@ -286,8 +286,8 @@ yyerror(char *err) {
 See the section "Interface" in the Bison documentation for more information.
 ```
 ## References
-+ [yacc_ref_1](http://dinosaur.compilertools.net/yacc/)
-+ [yacc_ref_2](https://luv.asn.au/overheads/lex_yacc/yacc.html)
-+ [lex_ref_1](http://dinosaur.compilertools.net/lex/)
-+ [lex_ref_2](https://luv.asn.au/overheads/lex_yacc/lex.html)
++ [http://dinosaur.compilertools.net/yacc/](http://dinosaur.compilertools.net/yacc/)
++ [https://luv.asn.au/overheads/lex_yacc/yacc.html](https://luv.asn.au/overheads/lex_yacc/yacc.html)
++ [http://dinosaur.compilertools.net/lex/](http://dinosaur.compilertools.net/lex/)
++ [https://luv.asn.au/overheads/lex_yacc/lex.html](https://luv.asn.au/overheads/lex_yacc/lex.html)
 + wikipedia 
