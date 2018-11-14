@@ -16,7 +16,7 @@ LETTER [a-zA-Z]+
 . {return yytext[0];}
 
 %%
-yywrap()
+int yywrap()
 {
 return 1;
 }
